@@ -1,0 +1,16 @@
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\bin\Debug\net5.0\Lab4_Capstone_PigLatin.exe
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\bin\Debug\net5.0\Lab4_Capstone_PigLatin.deps.json
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\bin\Debug\net5.0\Lab4_Capstone_PigLatin.runtimeconfig.json
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\bin\Debug\net5.0\Lab4_Capstone_PigLatin.runtimeconfig.dev.json
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\bin\Debug\net5.0\Lab4_Capstone_PigLatin.dll
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\bin\Debug\net5.0\ref\Lab4_Capstone_PigLatin.dll
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\bin\Debug\net5.0\Lab4_Capstone_PigLatin.pdb
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\obj\Debug\net5.0\Lab4_Capstone_PigLatin.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\obj\Debug\net5.0\Lab4_Capstone_PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\obj\Debug\net5.0\Lab4_Capstone_PigLatin.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\obj\Debug\net5.0\Lab4_Capstone_PigLatin.AssemblyInfo.cs
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\obj\Debug\net5.0\Lab4_Capstone_PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\obj\Debug\net5.0\Lab4_Capstone_PigLatin.dll
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\obj\Debug\net5.0\ref\Lab4_Capstone_PigLatin.dll
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\obj\Debug\net5.0\Lab4_Capstone_PigLatin.pdb
+C:\Users\xando\source\repos\Lab4_Capstone_PigLatin\Lab4_Capstone_PigLatin\obj\Debug\net5.0\Lab4_Capstone_PigLatin.genruntimeconfig.cache
